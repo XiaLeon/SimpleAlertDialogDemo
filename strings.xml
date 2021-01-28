@@ -1,0 +1,11 @@
+<resources>
+    
+    // other string resources
+    
+    <array name="items_alert_dialog">
+        <item>成都串串</item>
+        <item>重庆火锅</item>
+        <item>港式餐厅</item>
+    </array>
+
+</resources>
